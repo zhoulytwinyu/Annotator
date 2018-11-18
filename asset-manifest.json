@@ -1,0 +1,14 @@
+{
+  "main.css": "/annotator/static/css/main.4451d6b5.chunk.css",
+  "main.js": "/annotator/static/js/main.fe471e26.chunk.js",
+  "main.js.map": "/annotator/static/js/main.fe471e26.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "/annotator/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "/annotator/static/js/1.2dd891c4.chunk.js.map",
+  "runtime~main.js": "/annotator/static/js/runtime~main.42b6d7aa.js",
+  "runtime~main.js.map": "/annotator/static/js/runtime~main.42b6d7aa.js.map",
+  "static/media/logo.svg": "/annotator/static/media/logo.5d5d9eef.svg",
+  "static/css/main.4451d6b5.chunk.css.map": "/annotator/static/css/main.4451d6b5.chunk.css.map",
+  "index.html": "/annotator/index.html",
+  "precache-manifest.bef23082953646f56aebd36de0575a26.js": "/annotator/precache-manifest.bef23082953646f56aebd36de0575a26.js",
+  "service-worker.js": "/annotator/service-worker.js"
+}
