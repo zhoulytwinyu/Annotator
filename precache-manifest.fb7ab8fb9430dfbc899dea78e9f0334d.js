@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/annotator/static/js/runtime~main.42b6d7aa.js"
   },
   {
-    "revision": "9942787687e62a7e97f2",
-    "url": "/annotator/static/js/main.99427876.chunk.js"
+    "revision": "0ab02a10c355ea255792",
+    "url": "/annotator/static/js/main.0ab02a10.chunk.js"
   },
   {
     "revision": "6ee6b64f52154b073592",
     "url": "/annotator/static/js/1.6ee6b64f.chunk.js"
   },
   {
-    "revision": "9942787687e62a7e97f2",
+    "revision": "0ab02a10c355ea255792",
     "url": "/annotator/static/css/main.50dca3f7.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/annotator/static/css/1.39088f32.chunk.css"
   },
   {
-    "revision": "c970437d518ca95810f251cfe47e0781",
+    "revision": "169d882795bbee7f2afeb261eb6668b7",
     "url": "/annotator/index.html"
   }
 ];
