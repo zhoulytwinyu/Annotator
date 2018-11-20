@@ -1,7 +1,7 @@
 {
   "main.css": "/annotator/static/css/main.50dca3f7.chunk.css",
-  "main.js": "/annotator/static/js/main.cd707b7e.chunk.js",
-  "main.js.map": "/annotator/static/js/main.cd707b7e.chunk.js.map",
+  "main.js": "/annotator/static/js/main.3be70532.chunk.js",
+  "main.js.map": "/annotator/static/js/main.3be70532.chunk.js.map",
   "static/css/1.39088f32.chunk.css": "/annotator/static/css/1.39088f32.chunk.css",
   "static/js/1.6ee6b64f.chunk.js": "/annotator/static/js/1.6ee6b64f.chunk.js",
   "static/js/1.6ee6b64f.chunk.js.map": "/annotator/static/js/1.6ee6b64f.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.39088f32.chunk.css.map": "/annotator/static/css/1.39088f32.chunk.css.map",
   "static/css/main.50dca3f7.chunk.css.map": "/annotator/static/css/main.50dca3f7.chunk.css.map",
   "index.html": "/annotator/index.html",
-  "precache-manifest.bf36903a47502e829c0e8a4a330cfbaf.js": "/annotator/precache-manifest.bf36903a47502e829c0e8a4a330cfbaf.js",
+  "precache-manifest.1943278b3f9ea5b9ca1a45e795edb7d8.js": "/annotator/precache-manifest.1943278b3f9ea5b9ca1a45e795edb7d8.js",
   "service-worker.js": "/annotator/service-worker.js"
 }
